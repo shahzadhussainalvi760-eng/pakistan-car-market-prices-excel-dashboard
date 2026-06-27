@@ -2,7 +2,7 @@
 
 A dark-themed Excel dashboard project that summarizes **average vehicle metrics** and highlights **popular car makes/models, transmission preference, and car color popularity** in Pakistan. This repository includes a **cleaned dataset** and a **dashboard preview image**.
 
-![Dashboard Preview](images/dashboard-overview.png)
+![Dashboard Preview](./images/dashboard-overview.png)
 *Dashboard overview showing KPIs (price, mileage, hp, engine size), top-10 popularity, transmission split, top-10 colors, and a “condition” slicer.*
 
 ---
